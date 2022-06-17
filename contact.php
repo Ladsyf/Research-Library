@@ -21,7 +21,7 @@ if(!isset($_SESSION['username'])) {
 <div class="opa"></div>
 
 <div class="grp">
-	<a href="index.php"><button class="btn"> Home </button></a>
+	<a href="index.php"><button class="btn"> Home</button></a>
 	<a href="about.php"><button class="btn"> About </button></a>
 	<a href="contact.php"><button class="abtn"> How? </button></a>
 	<a href="browse.php"><button class="btn"> Browse </button></a>
